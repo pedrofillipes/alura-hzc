@@ -17,7 +17,7 @@
 <p align="justify">
   Projeto desenvolvido durante o curso de flexbox e grid com metodologia mobile first da Alura.
   
-  Instrutora: [Matheus Alberto](https://github.com/ikyrie)
+  Instrutor(a): [Matheus Alberto](https://github.com/ikyrie)
 </p>
 <br>
 
