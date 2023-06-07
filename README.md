@@ -32,8 +32,7 @@
 
 ## Deploy da Aplicação
 
-> https://pedrofillipes.github.io/hzc/
-<br>
+![Captura de tela1](https://github.com/pedrofillipes/alura-hzc/assets/117683583/d243f582-ee32-4465-aa60-98017c7e19b8)
 
 ## Desenvolvedor
 
