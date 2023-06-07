@@ -32,7 +32,11 @@
 
 ## Deploy da Aplicação
 
-![Captura de tela1](https://github.com/pedrofillipes/alura-hzc/assets/117683583/d243f582-ee32-4465-aa60-98017c7e19b8)
+#Desktop
+![Screenshot](https://github.com/pedrofillipes/alura-hzc/assets/117683583/4376246d-8f5f-4921-9f3c-014158268fbb)
+
+#Mobile
+![Screenshot 2](https://github.com/pedrofillipes/alura-hzc/assets/117683583/fd0f0d5e-20bb-4125-8b50-e6f46466f88f)
 
 ## Desenvolvedor
 
